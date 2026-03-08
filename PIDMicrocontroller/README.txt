@@ -1,0 +1,1 @@
+An implementation of a PID controller block in C, using Euler Discretization (with the backward Euler method in particular) with sampling time 0.001. Additionally, an LPF implementation is used for the differentiator to reduce noise.
